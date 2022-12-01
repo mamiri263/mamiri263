@@ -9,4 +9,4 @@
 - AWS, mySQL, docker, rest api, linux operating systems and git
 
 # Contact
-- to contact me please refer to https://mamiri263.com/about
+- to contact me you can either dm mamiri#1337 on discord or email moh@mamiri263.com
