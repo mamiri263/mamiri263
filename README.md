@@ -4,7 +4,7 @@
 - I am also looking for people to collaborate with so please contanct me!
 # Experience and knowledge
 #### I have worked with languages such as: 
-- javascript, java, python, kotlin, lua and c#.
+- javascript, java, python, kotlin, lua, c and c#.
 #### I have also work with programs and platforms like:
 - AWS, mySQL, docker, rest api, linux operating systems and git
 
